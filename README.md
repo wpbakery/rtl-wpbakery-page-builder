@@ -1,4 +1,5 @@
-# RTL support for Visual Composer
+# RTL support for WPBakery Page Builder
 
-By community for community. Lets combine our forces and make rtl.css file for great Visual Composer page builder for WordPress.
-http://vc.wpbakery.com
+By community for the community. Let's combine our forces and make rtl.css file for great WPBakery page builder for WordPress.
+
+http://wpbakery.com
